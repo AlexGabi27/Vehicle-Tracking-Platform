@@ -1,2 +1,1 @@
-# Vehicle Tracking Platform
- 
+# vehicle-tracking-platform
